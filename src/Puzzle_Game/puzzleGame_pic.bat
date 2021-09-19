@@ -1,0 +1,3 @@
+javac puzzleGame_pic.java
+java puzzleGame_pic
+pause....
